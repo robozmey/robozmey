@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello everyone
+- ⚡ Fun fact: once teacher asked to say a number from 1 to 6... I answered 9!
+
 
 <!--
 **robozmey/robozmey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
