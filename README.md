@@ -1,5 +1,5 @@
 ### Hello everyone
-- ⚡ Fun fact: once teacher asked to say a number from 1 to 6... I answered 9!
+- ⚡ Fun fact: Once teacher asked to say a number from 1 to 6... I answered 9!
 
 
 <!--
