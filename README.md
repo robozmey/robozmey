@@ -1,5 +1,7 @@
 ### Hello everyone
-- ⚡ Fun fact: Once teacher asked to say a number from 1 to 6... I answered 9!
+- 📫 My [telegram](https://t.me/robozmey)
+- 🖌️ Learning to draw
+- 🎹 Learning to play piano
 
 
 <!--
