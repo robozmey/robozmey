@@ -1,6 +1,6 @@
 ### Hello everyone
 - 📫 My [telegram](https://t.me/robozmey)
-- 🖌️ Learning to draw
+- 🖌️ Learning to [draw](https://www.deviantart.com/robozmey)
 - 🎹 Learning to play piano
 
 
